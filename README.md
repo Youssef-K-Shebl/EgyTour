@@ -1,0 +1,1 @@
+The main idea of the project is to enhance tourism in Egypt by making reels as reviews of special places in Egypt to help the tourist to find good places to visit, hotels, good restaurants, cafes, and museums in different governorates of Egypt.
